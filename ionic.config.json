@@ -1,0 +1,7 @@
+{
+  "name": "Segurfono",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
